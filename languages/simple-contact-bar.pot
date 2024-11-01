@@ -1,0 +1,492 @@
+# Copyright (C) 2023 Simple Contact Bar
+# This file is distributed under the same license as the Simple Contact Bar package.
+"Project-Id-Version: Simple Contact Bar 1.0.1\n"
+"Report-Msgid-Bugs-To: https://profiles.wordpress.org/tuncayteke/\n"
+"POT-Creation-Date: 2024-07-20 02:36+0300\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Tuncay TEKE <teketuncay@gmail.com>\n"
+"Language-Team: LANGUAGE <teketuncay@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#. Plugin Name of the plugin/theme
+#: simple-contact-bar.php:3 simple-contact-bar.php:23 simple-contact-bar.php:37
+#: simple-contact-bar.php:72
+msgid "Simple Contact Bar"
+msgstr "Simple Contact Bar - Basit Beni Ara Butonları"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/simple-contact-bar/"
+msgstr ""
+
+#. Description of the plugin/theme
+#: simple-contact-bar.php:9
+msgid ""
+"Simple Contact Bar plugin: is an easy-to-use plugin that adds a call now and whatsapp message button to sites created with Wordpress infrastructure.In addition to fully customizable buttons, it has the feature of directing the visitor to communicate with the popup."
+msgstr "Simple Contact Bar eklentisi : Wordpress altyapısı ile oluşturulmuş sitelere hemen ara ve whatsapp mesaj butonu ekleyen kullanımı kolay bir eklentidir. Tamamen kişiselleştirilebilen butonların yanı sıra ziyaretçiyi site ile iletişime yönlendirme özelliğine de sahiptir. "
+
+#. Author of the plugin/theme
+msgid "Tuncay TEKE"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/tuncayteke/"
+msgstr ""
+
+#: simple-contact-bar.php:36 simple-contact-bar.php:319
+msgid "Simple Contact Bar Settings"
+msgstr "Simple Contact Bar Ayarları"
+
+#: simple-contact-bar.php:83
+msgid "SUPPORTED SHORTCODES"
+msgstr "DESTEKLENEN KISA KODLAR"
+
+#: simple-contact-bar.php:84
+msgid ""
+"You can use this shortcodes where you want to display your contact information."
+msgstr "Bu kısa kodları iletişim bilgilerinizi görüntülemek istediğiniz yerde kullanabilirsiniz."
+
+#: simple-contact-bar.php:85
+msgid "These are inline elements that can be used in Post, Page or Widget contents."
+msgstr "Bunlar Gönderi, Sayfa veya Widget içeriklerinde kullanılabilecek satır içi öğelerdir."
+
+#: simple-contact-bar.php:90
+msgid "Shortcode that can be used to for displaying phone number as text."
+msgstr "Telefon numarasını metin olarak görüntülemek için kullanılabilecek kısa kod."
+
+#: simple-contact-bar.php:71
+#: simple-contact-bar.php:112
+#: simple-contact-bar.php:131
+#: simple-contact-bar.php:150
+#: simple-contact-bar.php:148
+#: simple-contact-bar.php:189
+#: simple-contact-bar.php:208
+#: simple-contact-bar.php:227
+msgid "Short Code:"
+msgstr "Kısa Kod:"
+
+#: simple-contact-bar.php:93
+#: simple-contact-bar.php:116
+#: simple-contact-bar.php:135
+#: simple-contact-bar.php:154
+#: simple-contact-bar.php:170
+#: simple-contact-bar.php:191
+#: simple-contact-bar.php:212
+#: simple-contact-bar.php:231
+msgid "Code Preview:"
+msgstr "Kod Önizlemesi:"
+
+#: simple-contact-bar.php:109
+msgid "Shortcode that can be used to display phone number as text in national format."
+msgstr "Telefon numarasını ulusal formatta metin olarak görüntülemek için kullanılabilecek kısa kod."
+
+#: simple-contact-bar.php:128
+msgid "Shortcode that can be used to for displaying clickable phone link with title."
+msgstr "Başlığıyla birlikte tıklanabilir telefon bağlantısını görüntülemek için kullanılabilecek kısa kod."
+
+#: simple-contact-bar.php:147
+msgid "Shortcode that can be used to for displaying clickable phone buton with title and icon."
+msgstr "Başlığı ve simgesiyle birlikte tıklanabilir telefon düğmesini görüntülemek için kullanılabilecek kısa kod."
+
+#: simple-contact-bar.php:162
+msgid "Preview settings are same with your phone button settings."
+msgstr "Önizleme ayarları telefon tuş ayarlarınızla aynıdır."
+
+#: simple-contact-bar.php:167
+msgid "Shortcode that can be used to for displaying WhatsApp number as text."
+msgstr "WhatsApp numarasını metin olarak görüntülemek için kullanılabilecek kısa kod."
+
+#: simple-contact-bar.php:1486
+msgid "Shortcode that can be used to display WhatsApp number as text in national format."
+msgstr "WhatsApp numarasını ulusal formatta metin olarak görüntülemek için kullanılabilecek kısa kod."
+
+#: simple-contact-bar.php:205
+msgid "Shortcode that can be used to for displaying clickable whatsapp link with title."
+msgstr "Tıklanabilir whatsapp bağlantısını başlıkla birlikte görüntülemek için kullanılabilecek kısa kod."
+
+#: simple-contact-bar.php:224
+msgid "Shortcode that can be used to for displaying clickable WhatsApp buton with title and icon."
+msgstr "Başlığı ve simgesiyle birlikte tıklanabilir WhatsApp düğmesini görüntülemek için kullanılabilecek kısa kod."
+
+#: simple-contact-bar.php:239
+msgid "Preview settings are same with your WhatsApp button settings."
+msgstr "Önizleme ayarları WhatsApp düğme ayarlarınızla aynıdır."
+
+#: simple-contact-bar.php:243
+msgid "Thanks for using Simple Contact Bar. Coded with love."
+msgstr "Basit İletişim Çubuğunu kullandığınız için teşekkür ederiz. Sevgiyle kodlandı."
+
+#: simple-contact-bar.php:243
+msgid "by:"
+msgstr "Yapan:"
+
+#: simple-contact-bar.php:266
+msgid "Call Now"
+msgstr "Şimdi Ara"
+
+#: simple-contact-bar.php:276
+msgid "WhatsApp Text"
+msgstr "WhatsApp Metin"
+
+#: simple-contact-bar.php:277
+msgid "WhatsApp Message"
+msgstr "WhatsApp Mesajı"
+
+#: simple-contact-bar.php:296
+msgid "Get in Touch"
+msgstr "İletişime Geçin"
+
+#: simple-contact-bar.php:327
+msgid "Enable Simple Contact Bar"
+msgstr "Enable Simple Contact Etkinleştir"
+
+#: simple-contact-bar.php:341
+msgid "Phone Button Settings"
+msgstr "Telefon Düğmesi Ayarları"
+
+#: simple-contact-bar.php:351
+msgid "Enable Phone Button"
+msgstr "Telefon Düğmesini Etkinleştir"
+
+#: simple-contact-bar.php:366
+msgid "Your Phone Number"
+msgstr "Telefon Numaranız"
+
+#: simple-contact-bar.php:381
+msgid "Click to Call Button Title"
+msgstr "Aramak İçin Tıklayın Düğme Başlığı"
+
+#: simple-contact-bar.php:396
+msgid "Click to Call Button Title Text Color"
+msgstr "Aramak İçin Tıkla Düğme Başlığı Metin Rengi"
+
+#: simple-contact-bar.php:375
+msgid "Click to Call Button Background Color"
+msgstr "Aramak İçin Tıkla Butonunun Arkaplan Rengi"
+
+#: simple-contact-bar.php:425
+msgid "Click to Call Button Position"
+msgstr "Aramak İçin Tıkla Buton Konumu"
+
+#: simple-contact-bar.php:434 simple-contact-bar.php:647
+msgid "Bottom Left"
+msgstr "Sol Alt"
+
+#: simple-contact-bar.php:435 simple-contact-bar.php:648
+msgid "Bottom Right"
+msgstr "Sağ Alt"
+
+#: simple-contact-bar.php:436 simple-contact-bar.php:649
+msgid "Bottom Center"
+msgstr "Alt Orta"
+
+#: simple-contact-bar.php:437 simple-contact-bar.php:650
+msgid "Middle Left"
+msgstr "Orta Sol"
+
+#: simple-contact-bar.php:438 simple-contact-bar.php:651
+msgid "Middle Right"
+msgstr "Orta Sağ"
+
+#: simple-contact-bar.php:439 simple-contact-bar.php:652
+msgid "Top Left"
+msgstr "Sol Üst"
+
+#: simple-contact-bar.php:440 simple-contact-bar.php:653
+msgid "Top Right"
+msgstr "Sağ Üst"
+
+#: simple-contact-bar.php:449
+msgid "Click to Call Button Size"
+msgstr "Aramak İçin Tıklayınız Buton Boyutu"
+
+#: simple-contact-bar.php:458 simple-contact-bar.php:671
+msgid "Small"
+msgstr "Küçük"
+
+#: simple-contact-bar.php:459 simple-contact-bar.php:672
+msgid "Medium"
+msgstr "Orta"
+
+#: simple-contact-bar.php:460 simple-contact-bar.php:673
+msgid "Large"
+msgstr "Büyük"
+
+#: simple-contact-bar.php:461 simple-contact-bar.php:674
+msgid "X Large"
+msgstr "X Büyük"
+
+#: simple-contact-bar.php:462 simple-contact-bar.php:675
+msgid "XX Large"
+msgstr "XX Büyük"
+
+#: simple-contact-bar.php:471
+msgid "Click to Call Phone Button Type"
+msgstr "Telefon Aramak İçin Tıklayınız Buton Tipi"
+
+#: simple-contact-bar.php:480 simple-contact-bar.php:693
+msgid "Only Icon"
+msgstr "Yalnızca Simge"
+
+#: simple-contact-bar.php:481 simple-contact-bar.php:694
+msgid "Only Title"
+msgstr "Yalnızca Başlık"
+
+#: simple-contact-bar.php:482 simple-contact-bar.php:695
+msgid "Icon With Title"
+msgstr "Başlıklı Simge"
+
+#: simple-contact-bar.php:491
+msgid "Enable Phone Button Animation"
+msgstr "Telefon Düğmesi Animasyonunu Etkinleştir"
+
+#: simple-contact-bar.php:506
+msgid "Enable Phone Icon Animation"
+msgstr "Telefon Simgesi Animasyonunu Etkinleştir"
+
+#: simple-contact-bar.php:520
+msgid "WhatsApp Button Settings."
+msgstr "WhatsApp Düğme Ayarları."
+
+#: simple-contact-bar.php:526
+msgid "Enable WhatsApp Text Button"
+msgstr "WhatsApp Metin Düğmesini Etkinleştir"
+
+#: simple-contact-bar.php:544
+msgid "Your Whatsapp Text Number"
+msgstr "Whatsapp Metin Numaranız"
+
+#: simple-contact-bar.php:558 simple-contact-bar.php:623
+msgid "Your Whatsapp Text Button Title"
+msgstr "Whatsapp Metin Düğmenizin Başlığı"
+
+#: simple-contact-bar.php:573
+msgid "Your Whatsapp Text Button Title Color"
+msgstr "Whatsapp Metin Düğme Başlığı Renginiz"
+
+#: simple-contact-bar.php:588
+msgid "WhatsApp Message Type"
+msgstr "WhatsApp Mesaj Türü"
+
+#: simple-contact-bar.php:608
+msgid "Your Whatsapp Message"
+msgstr "Whatsapp Mesajınız"
+
+#: simple-contact-bar.php:623
+msgid "Your Whatsapp Text Button Background Color"
+msgstr "Whatsapp Metin Düğmenizin Arka Plan Rengi"
+
+#: simple-contact-bar.php:638
+msgid "WhatsApp Text Button Position"
+msgstr "WhatsApp Metin Düğmesi Konumu"
+
+#: simple-contact-bar.php:662
+msgid "WhatsApp Text Button Size"
+msgstr "WhatsApp Metin Düğme Boyutu"
+
+#: simple-contact-bar.php:684
+msgid "WhatsApp Text Button Type"
+msgstr "WhatsApp Metin Düğmesi Türü"
+
+#: simple-contact-bar.php:705
+msgid "Enable WhatsApp Button Animation"
+msgstr "WhatsApp Düğme Animasyonunu Etkinleştir"
+
+#: simple-contact-bar.php:720
+msgid "Enable WhatsApp Icon Animation"
+msgstr "WhatsApp Simge Animasyonunu Etkinleştir"
+
+#: simple-contact-bar.php:737
+msgid "Button Display Settings"
+msgstr "Düğme Görüntüleme Ayarları"
+
+#: simple-contact-bar.php:746
+msgid "Enable Buttons"
+msgstr "Düğmeleri Etkinleştir"
+
+#: simple-contact-bar.php:761
+msgid "Button View"
+msgstr "Düğme Görünümü"
+
+#: simple-contact-bar.php:769
+msgid "Rounded Circle"
+msgstr "Yuvarlak Daire"
+
+#: simple-contact-bar.php:770
+msgid "Oval Corner Square"
+msgstr "Oval Köşe Kare"
+
+#: simple-contact-bar.php:771
+msgid "Flat Square"
+msgstr "Düz Kare"
+
+#: simple-contact-bar.php:780
+msgid "Button Display Block"
+msgstr "Buton Görüntüleme Bloğu"
+
+#: simple-contact-bar.php:788
+msgid "Grid"
+msgstr "Izgara"
+
+#: simple-contact-bar.php:789
+msgid "Inline"
+msgstr "Satır içi"
+
+#: simple-contact-bar.php:798
+msgid "Enable Button Border"
+msgstr "Düğme Kenarlığını Etkinleştir"
+
+#: simple-contact-bar.php:812
+msgid "Button Border Width"
+msgstr "Düğme Kenarlığı Genişliği"
+
+#: simple-contact-bar.php:826
+msgid "Button Border Style"
+msgstr "Düğme Çerçeve Stili"
+
+#: simple-contact-bar.php:834 simple-contact-bar.php:1013
+msgid "Solid"
+msgstr "Katı"
+
+#: simple-contact-bar.php:835 simple-contact-bar.php:1014
+msgid "Dotted"
+msgstr "Noktalı"
+
+#: simple-contact-bar.php:836 simple-contact-bar.php:1015
+msgid "Dashed"
+msgstr "Kesikli"
+
+#: simple-contact-bar.php:837 simple-contact-bar.php:1016
+msgid "Double"
+msgstr "Çift"
+
+#: simple-contact-bar.php:838 simple-contact-bar.php:1017
+msgid "Groove"
+msgstr "Oluk"
+
+#: simple-contact-bar.php:839 simple-contact-bar.php:1018
+msgid "Ridge"
+msgstr "Sırt"
+
+#: simple-contact-bar.php:840 simple-contact-bar.php:1019
+msgid "Inset"
+msgstr "İç metin"
+
+#: simple-contact-bar.php:841 simple-contact-bar.php:1020
+msgid "Outset"
+msgstr "Başlangıç"
+
+#: simple-contact-bar.php:850
+msgid "Button Border Color"
+msgstr "Düğme Çerçeve Rengi"
+
+#: simple-contact-bar.php:865
+msgid "Activate Butons On"
+msgstr "Butonları Şurada Etkinleştir"
+
+#: simple-contact-bar.php:873 simple-contact-bar.php:1098
+msgid "All Devices"
+msgstr "Tüm Cihazlar"
+
+#: simple-contact-bar.php:874 simple-contact-bar.php:1099
+msgid "Mobile Devices"
+msgstr "Mobil Cihazlar"
+
+#: simple-contact-bar.php:883
+msgid "Popup Display Settings"
+msgstr "Açılır Ekran Ayarları"
+
+#: simple-contact-bar.php:892
+msgid "Enable Popup"
+msgstr "Açılır Pencereyi Etkinleştir"
+
+#: simple-contact-bar.php:907
+msgid "Popup Title"
+msgstr "Açılır Pencere Başlığı"
+
+#: simple-contact-bar.php:921
+msgid "Popup Title Color"
+msgstr "Açılır Pencere Başlığı Rengi"
+
+#: simple-contact-bar.php:935
+msgid "Popup Text"
+msgstr "Açılır Metin"
+
+#: simple-contact-bar.php:948
+msgid "Popup Text Color"
+msgstr "Açılır Metin Rengi"
+
+#: simple-contact-bar.php:963
+msgid "Popup Background Color"
+msgstr "Açılır Pencere Arka Plan Rengi"
+
+#: simple-contact-bar.php:977
+msgid "Popup Overlay Background Color"
+msgstr "Açılır Pencere Yerleşimi Arka Plan Rengi"
+
+#: simple-contact-bar.php:991
+msgid "Popup Border Width"
+msgstr "Açılır Pencere Kenarlığı Genişliği"
+
+#: simple-contact-bar.php:1005
+msgid "Popup Border Style"
+msgstr "Açılır Pencere Kenarlığı Stili"
+
+#: simple-contact-bar.php:1029
+msgid "Popup Border Color"
+msgstr "Açılır Pencere Kenarlığı Rengi"
+
+#: simple-contact-bar.php:1043
+msgid "Popup Box Shadow Color"
+msgstr "Açılır Kutu Gölge Rengi"
+
+#: simple-contact-bar.php:1057
+msgid "Popup View Style"
+msgstr "Açılır Pencere Görünümü Stili"
+
+#: simple-contact-bar.php:1065
+msgid "On Page Load"
+msgstr "Sayfa Yüklemesinde"
+
+#: simple-contact-bar.php:1066
+msgid "After Delayed X Seconds"
+msgstr "X Saniye Gecikmeden Sonra"
+
+#: simple-contact-bar.php:1067
+msgid "On Any Click"
+msgstr "Herhangi Bir Tıklamada"
+
+#: simple-contact-bar.php:1076
+msgid "Popup Delay Time in Milisecond"
+msgstr "Milisaniye cinsinden Açılır Pencere Gecikme Süresi"
+
+#: simple-contact-bar.php:1096
+msgid "Enable Popup On"
+msgstr "Açılır Pencereyi Şu Cihazlarda Etkinleştir"
+
+#: simple-contact-bar.php:1112
+msgid ""
+"A simple plugin that adds a click to call now button and whatsapp contact link button to the bottom of your site and Also supports shortcodes."
+msgstr "Sitenizin altına hemen aramak için tıklayın düğmesi ve whatsapp iletişim bağlantısı düğmesi ekleyen ve ayrıca kısa kodları destekleyen basit bir eklenti."
+
+#: simple-contact-bar.php:1118
+msgid "Make your Click To Call Button settings here."
+msgstr "Aramak İçin Tıkla Butonu ayarlarınızı buradan yapın."
+
+#: simple-contact-bar.php:1125
+msgid "Make your WhatsApp Text Button settings here."
+msgstr "WhatsApp Metin Buton ayarlarınızı buradan yapın."
+
+#: simple-contact-bar.php:1136
+msgid "Make your Buttons general settings here."
+msgstr "Butonlarınızın genel ayarlarını buradan yapın."
+
+#: simple-contact-bar.php:1142
+msgid "Make your PopUP settings here."
+msgstr "PopUP ayarlarınızı buradan yapın."
+
+#: simple-contact-bar.php:1533
+msgid "Dismiss this notice."
+msgstr "Bu bildirimi reddet."
